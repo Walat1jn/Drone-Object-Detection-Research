@@ -1,5 +1,5 @@
 **Drone-Object-Detection-Research**
-  Exploring object detection with drones using various DL models
+  Exploring object detection with drones using various DL models 
 
 **Dataset**
   6,844 RBG images  
