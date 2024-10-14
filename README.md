@@ -9,5 +9,5 @@
 
 **Splitting Dataset**
   Training 0.79
-  Validation 0.10
-  Testing 0.11
+  Validation 0.10  
+  Testing 0.11  
